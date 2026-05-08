@@ -33,18 +33,11 @@ nav {
     background: #ddd;
 }
 
-nav ul {
+nav {
     display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 10px;
-    justify-content: center;
-}
+    gap: 20px;
+}  
 
-nav li {
-    margin: 0 15px;
-    cursor: pointer;
-}
 
 /* BREAKING */
 .breaking {
